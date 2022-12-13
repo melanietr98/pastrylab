@@ -1,0 +1,55 @@
+#div1,
+#div2,
+#div3,
+#div4 {
+  background-image: linear-gradient(
+    109.6deg,
+    rgba(176, 237, 244, 1) 31.4%,
+    rgba(250, 185, 235, 1) 68%
+  );
+  color: #ff0090;
+  font-family: gabriola;
+}
+h1 {
+  color: #ff4081;
+  font-family: gabriola;
+  font-style: oblique;
+  font-weight: bold;
+  font-variant: normal;
+  font-stretch: ultra-expanded;
+  text-align: center;
+}
+h2 {
+  color: #6200ea;
+  font-family: gabriola;
+  font-style: oblique;
+  font-stretch: ultra-expanded;
+  text-align: center;
+}
+h3 {
+  color: #ff4081;
+  font-family: gabriola;
+  font-style: oblique;
+}
+h4 {
+  color: #6200ea;
+  font-family: gabriola;
+  font-size: 20px;
+}
+.fillinglist {
+  color: #ff0090;
+  font-family: gabriola;
+}
+
+.doughList {
+  color: #ff0090;
+  font-family: gabriola;
+}
+ol {
+  color: #6200ea;
+  font-weight: bold;
+}
+p {
+  color: #ff0090;
+  font-weight: normal;
+}
